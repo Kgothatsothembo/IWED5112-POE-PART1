@@ -10,15 +10,15 @@ Main heading: Pool house Home page.
 
 Navigation menu (<nav class="Navbar">) with links:
 
-Home → Index.html
+Home - Index.html
 
-About → About.html
+About  -About.html
 
-Menu → Products _services.html
+Menu - Products _services.html
 
-Gallery → Gallery.html
+Gallery - Gallery.html
 
-Contact Us → Contact.html
+Contact Us - Contact.html
 
 Inserted homepage image (poolhouse1.jpg, 200x200).
 
@@ -66,11 +66,11 @@ Linked external stylesheet: style.CSS.
 
 Added image gallery with captions:
 
-Small Kota → poolhouse1.jpg
+Small Kota - poolhouse1.jpg
 
-Medium Kota → poolhouse4.webp
+Medium Kota - poolhouse4.webp
 
-Large Kota → poolhouse5.webp and poolhouse8.webp
+Large Kota - poolhouse5.webp and poolhouse8.webp
 
 All images set to 300px x 300px.
 
@@ -112,10 +112,4 @@ Pages include headings (<h1>) for section titles.
 
 Business identity (Pool House) and branding consistent.
 
-Issues across files:
 
-Misplaced <head> and <title> tags.
-
-<image> tag incorrectly used instead of <img>.
-
-<br> used for spacing instead of CSS margins/padding.
